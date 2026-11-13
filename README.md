@@ -15,3 +15,8 @@ git pull --rebase origin main
 git push -u origin main
 /* create new file */
 touch <newfile>
+
+git log
+git log --oneline
+git log --since="1 week ago"
+git log --author"sth"
